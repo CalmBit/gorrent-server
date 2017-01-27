@@ -2,7 +2,7 @@ gorrent-server
 ==============
 `gorrent-server` is an application, one half of the full Gorrent experience.
 
-This half functions as a server for most of the operations undertaken by the user,
+This piece of software functions as a server for most of the operations undertaken by the user,
 in order to abstract away some of the general functions of the torrent client into
 an interface-agnostic form.
 
