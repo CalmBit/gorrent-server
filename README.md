@@ -8,5 +8,4 @@ an interface-agnostic form.
 
 It's still a major work in progress, so please don't be surprised if
 nothing works - it's meant to fail in a lot of ways. Not to mention that,
-as of writing this README, there's no download functionality, nor even a format
-for an interface, making this unusable in every way.
+as of writing this README, there's no actual functionality.
